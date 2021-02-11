@@ -1,11 +1,11 @@
-Olá, me chamo José Henrique :smiley:
+<h1>Olá, me chamo José Henrique :smiley: </h1>
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas.
-Formado em Desenvolvimento de Jogos Digitais e Técnico em Redes.
-Focando atualmente em desenvolvimento web.
+Atualmente cursando Análise e Desenvolvimento de Sistemas.<br/>
+Formado em Desenvolvimento de Jogos Digitais e Técnico em Redes.<br/>
+Focando atualmente em desenvolvimento web.<br/>
 
-Sempre em constante aprendizado, tanto em novas tecnologias quanto desenvolvimento pessoal.
-Procuro adquirir e compartilhar conhecimento e novas experiências pessoais e profissionais.
+Sempre em constante aprendizado, tanto em novas tecnologias quanto desenvolvimento pessoal.<br/>
+Procuro adquirir e compartilhar conhecimento e novas experiências pessoais e profissionais.<br/>
 
 
 
