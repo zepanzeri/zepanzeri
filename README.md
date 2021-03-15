@@ -1,4 +1,4 @@
-<h1>Olá, me chamo José Henrique :smiley: </h1>
+<h1> 🇧🇷 Olá, me chamo José Henrique :smiley: 🇧🇷 </h1>
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas.<br/>
 Formado em Desenvolvimento de Jogos Digitais e Técnico em Redes.<br/>
